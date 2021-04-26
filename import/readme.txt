@@ -1,0 +1,1 @@
+sh txt2c.sh lang_ru.c lang_en
